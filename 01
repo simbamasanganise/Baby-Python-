@@ -1,0 +1,88 @@
+>>> "This is my very first code in Python:)\nSure to be random!"
+>>>"Let\'s try using escapes"
+>>>print("Hello\nSimba!")
+Hello
+Simba!
+>>>print(3*6)
+18
+>>>input= 7 + 10
+print(input)
+17
+>>>print("7"+"10")
+710
+>>>int("dx7"+"10")
+17
+input="4"*3
+print(input)
+444
+ //or we could say 
+print("4"*3)
+ //andretreive the same results
+>>>This_is_a_wierd_variable_name= yes
+>>>print(This_is_a_wierd_variable_name)
+yes
+>>>input=("enter a number:")
+ enter a number: 19
+>>>print(input)
+19
+>>>x=6
+>>>print(6)
+6
+>>>x+=3
+>>>print(x)
+9
+>>>y="simba "
+>>>y*=2
+>>>print(y)
+simba simba
+>>>19!=19
+False
+>>>19>17
+True
+if 19>17:
+   print("Great!")
+Great!
+num=19
+if num>17:
+   print("greater than 17")
+   if num<17:
+      print("less than 17")
+number=19
+if num==17:
+   print("number is 17")
+else:
+if num==71:
+   print("71")
+   if num== 19:
+      print("number is 19")
+else:
+if num!=19:
+   print("oh no")
+number is 19
+num=70
+if num==60
+   print("number is 60")
+elif num==("80")
+     print("number is 80")
+elif number==70
+     print("number is 70")
+else:
+     print("number is neither")
+words=["Hello","world"]
+print(words[0])
+print(words[1])
+>>>
+Hello
+world
+>>>
+str="hello world"
+print(str[6])
+>>>
+w
+>>>
+nums=[7,7,7,7,7]
+nums(2)=5
+print(nums)
+>>>
+[7,7,7,5,7,7]
+>>>
